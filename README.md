@@ -1,4 +1,4 @@
-# 📸 Instagram Clone Using Django
+# 📸 V-Chat (Instagram Clone Using Django)
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-5.2.1-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Thiyagu-2003/InstaCloneUsingDjango?style=social)](https://github.com/Thiyagu-2003/InstaCloneUsingDjango/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Thiyagu-2003/InstaCloneUsingDjango?style=social)](https://github.com/Thiyagu-2003/InstaCloneUsingDjango/network/members)
 
-Welcome to **Instagram Clone Using Django** — a sleek, full-featured social media web application built with **Django** and **Django Channels**, replicating core Instagram functionalities like photo sharing, following users, liking posts, and real-time chatting!
+Welcome to **V-Chat(Instagram Clone Using Django)** — a sleek, full-featured social media web application built with **Django** and **Django Channels**, replicating core Instagram functionalities like photo sharing, following users, liking posts, and real-time chatting!
 
 ## 🌟 Demo
 
@@ -66,8 +66,8 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Thiyagu-2003/InstaCloneUsingDjango.git
-cd InstaCloneUsingDjango
+git clone https://github.com/Thiyagu-2003/V-Chat.git
+cd V-Chat
 ```
 
 ### 2. Create Virtual Environment
@@ -163,7 +163,7 @@ http://127.0.0.1:8000/
 ## 🏗️ Project Structure
 
 ```
-instagram_clone/                      # Root directory of the Django project
+V-Chat/                      # Root directory of the Django project
 │
 ├── chat/                             # Django app for real-time chat functionality
 │   ├── __pycache__/                  # Python cache files (auto-generated)
@@ -393,5 +393,3 @@ Got questions or want to collaborate? Feel free to reach out!
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
 Made with ❤️ by [Thiyagu S](https://github.com/Thiyagu-2003)
-#   V - C h a t  
- 
